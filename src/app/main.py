@@ -2,7 +2,6 @@ import logging.config
 import os
 from pathlib import Path
 
-import uvicorn
 from fastapi import FastAPI, HTTPException
 
 from .config import initialize_config
