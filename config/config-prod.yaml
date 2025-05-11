@@ -1,0 +1,8 @@
+gcp:
+  project_id: tg-aggregator
+
+
+scraper:
+  session_name: telegram_scraper
+  api_hash: null
+  api_id: null
